@@ -1,0 +1,71 @@
+/* Johan Brink EEDATA2  */
+
+p {
+    color:red;
+    border-style: dashed;
+}
+
+a:link {
+    color: rgb(21, 206, 21);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: rgb(222, 7, 255);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+h1 {
+    font-size:50px;
+    padding:25px;
+}
+
+body {
+    background-color: rgb(223, 247, 227);
+    /* background-image: url("bilder/horse.jpg"); */
+    font-size: 25px;
+    font-family: Arial;
+}
+
+div { 
+    border: 2px solid red;
+    width: 600px;
+    background-color: rgb(4, 238, 20);
+    /*margin: 50px;*/
+}
+
+#pelle {
+    background-color: rgb(158, 255, 149);
+    /* height:100px; */
+    position:relative;
+    top:50px;
+    left:300px;
+    max-width: 1000px;
+    min-width: 500px;
+}
+
+#sittillhoger {
+  margin-left: auto;
+  margin-left: auto;
+  width:700px;
+}
+
+span {
+    color:blue;
+}
+
+.orangetitle {
+  color:orange;
+}
+
