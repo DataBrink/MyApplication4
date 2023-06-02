@@ -1,0 +1,10 @@
+1.1.0
+	Nya Features:
+	* Exempel på Media Query i enkel.css
+
+	Buggfix:
+	* God praxis check reagerar inte längre med felaktigt tips när index sida laddas utan filnamn i URL.
+
+1.1.1
+	Utökad feature:
+	* Fler god praxis kontroller.
