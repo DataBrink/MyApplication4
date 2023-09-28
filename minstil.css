@@ -1,0 +1,30 @@
+/* Author: Johan Brink EEdata2 */
+
+body {
+	padding:0px;
+	background-color: #7b5dff;
+	background-image: url("bilder/dr_mcninja.jpg");
+	font-size:25px;
+}
+p.ex1 {
+	border: 1px solid red; 
+	padding: 35px;
+}
+	  
+p.ex2 {
+	border: 1px solid red; 
+	margin: 35px;
+}
+
+span {
+	color:blue;
+}
+
+div {
+	
+}
+
+/* border: 10px solid green; /*
+	  
+
+/* Referens till eleven: https://www.w3schools.com/css/default.asp */
